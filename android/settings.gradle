@@ -1,0 +1,3 @@
+rootProject.name = 'ideabox_native'
+
+include ':app'
